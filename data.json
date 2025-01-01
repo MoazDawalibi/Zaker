@@ -1,0 +1,347 @@
+{
+  "navBar": {
+    "link1": "الرئيسية",
+    "link2": "الميزات",
+    "link3": "كيف يعمل",
+    "link4": "لقطة الشاشة",
+    "link5": "ملاحظة",
+    "link6": "اتصل بنا",
+    "link7":"الخصوصية",
+    "link8":"تحميل"
+  },
+  "Home": {
+    "title": "احصل على تنزيل مجاني لتطبيق",
+    "ApplicationName": "ذاكر",
+    "description": "من الحقائق الثابتة منذ فترة طويلة أن القارئ سوف يصرف انتباهه عن المحتوى",
+    "buttonLabel": "تحميل على المتجر",
+    "button1": "جوجل بلاي",
+    "button2": "ابل",
+    "mainImage": "/Home/Main.png"
+  },
+  "Features": {
+    "title": "ميزات التطبيق",
+    "description": "تقديم قيمة احترافية بموضوعية مع جاهزية متنوعة للويب. نقل خدمة العملاء اللاسلكية بشكل تعاوني دون محفزات موجهة نحو الهدف للتغيير. التعاون.",
+    "mainImage": "/Features/main.png",
+    "Data": {
+      "1": {
+        "img": "/Features/1.png",
+        "title": "ميزات غير محدودة",
+        "description": "استمتع بإمكانيات غير محدودة لتخصيص تجربتك"
+      },
+      "2": {
+        "img": "/Features/2.png",
+        "title": "دعم ودود عبر الإنترنت",
+        "description": "توفير دعم فني متاح على مدار الساعة لمساعدتك في أي استفسارات"
+      },
+      "3": {
+        "img": "/Features/3.png",
+        "title": "مشاركة اجتماعية",
+        "description": "مكون معياري وقابل للتبديل بين التخطيطات وحتى العروض التوضيحية."
+      },
+      "4": {
+        "img": "/Features/4.png",
+        "title": "دقة عالية",
+        "description": "مكون معياري وقابل للتبديل بين التخطيطات وحتى العروض التوضيحية."
+      },
+      "5": {
+        "img": "/Features/5.png",
+        "title": "مشاركة اجتماعية",
+        "description": "سهولة مشاركة المحتوى عبر منصات التواصل الاجتماعي"
+      },
+      "6": {
+        "img": "/Features/6.png",
+        "title": "استخدم على أي جهاز",
+        "description": "توافق مع جميع الأجهزة لضمان تجربة سلسة"
+      }
+    }
+  },
+  "HowItWork": {
+    "title": "كيف يعمل؟ ",
+    "description": " استضافة احترافية بسعر مناسب. تلخيص الكفاءات الأساسية التي تركز على المبدأ بشكل مميز من خلال الكفاءات الأساسية التي تركز على العميل.",
+    "mainImage": "/HowItWorks/main.png",
+    "Data": {
+      "1": {
+        "img": "/HowItWorks/1.png",
+        "title": "تسجيل الدخول ",
+        "description": "تسخير المنهجيات الموثوقة وخدمات الويب المتعامدة بشكل مقنع."
+      },
+      "2": {
+        "img": "/HowItWorks/2.png",
+        "title": "اختيار مادة",
+        "description": "توفير دعم فني متاح على مدار الساعة لمساعدتك في أي استفسارات"
+      },
+      "3": {
+        "img": "/HowItWorks/3.png",
+        "title": "إنشاء اختبار",
+        "description": "تسخير المنهجيات الموثوقة وخدمات الويب المتعامدة بشكل مقنع."
+      },
+      "4": {
+        "img": "/HowItWorks/4.png",
+        "title": "عرض النتيجة",
+        "description": "توفير دعم فني متاح على مدار الساعة لمساعدتك في أي استفسارات"
+      }
+    }
+  },
+  "VideoPage": {
+    "title": "منصة التطبيق الأكثر استخداما",
+    "description": "ابدأ العمل مع ذلك الذي يمكن أن يوفر كل ما تحتاجه لتوليد الوعي وزيادة حركة المرور والتواصل. تحويل القيمة الدقيقة بكفاءة من خلال المحتوى الذي يركز على العميل.",
+    "mainImage": "/Video/Play.png",
+    "Data": {
+      "1": {
+        "img": "1",
+        "title": "تنزيلات التطبيق",
+        "number": "8471"
+      },
+      "2": {
+        "img": "2",
+        "title": "عملاء سعداء",
+        "number": "6503"
+      },
+      "3": {
+        "img": "3",
+        "title": "الحسابات النشطة",
+        "number": "8120"
+      },
+      "4": {
+        "img": "4",
+        "title": "ملاحظات",
+        "number": "1201"
+      }
+    }
+  },
+  "ScreenShoot": {
+    "title": "لقطات شاشة التطبيق",
+    "description": "استضافة احترافية بسعر مناسب. تلخيص الكفاءات الأساسية التي تركز على المبدأ بشكل مميز من خلال الكفاءات الأساسية التي تركز على العميل",
+    "Data": [
+      "ScreenShoot/5.png",
+      "ScreenShoot/4.png",
+      "ScreenShoot/3.png",
+      "ScreenShoot/2.png",
+      "ScreenShoot/1.png",
+      "ScreenShoot/5.png",
+      "ScreenShoot/4.png",
+      "ScreenShoot/3.png",
+      "ScreenShoot/2.png",
+      "ScreenShoot/1.png"
+    ]
+  },
+  "NotePage": {
+    "title": "ماذا يقول عملاؤنا عن ذاكر",
+    "description": " استضافة احترافية بسعر مناسب. تلخيص الكفاءات الأساسية التي تركز على المبدأ بشكل مميز من خلال الكفاءات الأساسية التي تركز على العميل.",
+    "Data": {
+      "1": {
+        "description": "تسهيل الضرورات الوظيفية بشكل جوهري بدون خدمات وصفية من الجيل التالي. إحداث ثورة مقنعة في المستخدمين في جميع أنحاء العالم مقابل أفضل ممارسات المؤسسة",
+        "rate": 4,
+        "img": "/Note/1.png",
+        "name": "إليسا اسكندر"
+      },
+      "2": {
+        "description": "تسهيل الضرورات الوظيفية بشكل جوهري بدون خدمات وصفية من الجيل التالي. إحداث ثورة مقنعة في المستخدمين في جميع أنحاء العالم مقابل أفضل ممارسات المؤسسة",
+        "rate": 4,
+        "img": "/Note/1.png",
+        "name": "إليسا اسكندر"
+      },
+      "3": {
+        "description": "تسهيل الضرورات الوظيفية بشكل جوهري بدون خدمات وصفية من الجيل التالي. إحداث ثورة مقنعة في المستخدمين في جميع أنحاء العالم مقابل أفضل ممارسات المؤسسة",
+        "rate": 4,
+        "img": "/Note/1.png",
+        "name": "إليسا اسكندر"
+      }
+    }
+  },
+  "DownloadPage": {
+    "title": "متوفر الآن على",
+    "description": "ابدأ العمل مع ذلك الذي يمكن أن يوفر كل ما تحتاجه لتوليد الوعي وزيادة حركة المرور والتواصل. تحويل القيمة الدقيقة بكفاءة من خلال المحتوى الذي يركز على العميل",
+    "buttonLabel": "تحميل على المتجر",
+    "button1": "جوجل بلاي",
+    "button2": "المتجر",
+    "img": "/Download/1.png"
+  },
+  "ContactPage": {
+    "title": "تواصل معنا",
+    "description": "من السهل جدا الاتصال بنا. ما عليك سوى استخدام نموذج الاتصال أو زيارتنا  في المكتب. ابتكار التكنولوجيا التنافسية ديناميكيا بعد مجموعة موسعة من القيادة",
+    "Data": {
+      "1": {
+        "title": "المكتب الرئيسي",
+        "image": "/contact/1.png",
+        "value": "121 King St , ملبورن VIC 3000, أستراليا"
+      },
+      "2": {
+        "title": "رقم الهاتف",
+        "image": "/contact/2.png",
+        "value": "+61 2 8376 6284"
+      },
+      "3": {
+        "title": "عنوان البريد الإلكتروني",
+        "image": "/contact/3.png",
+        "value": " hello@your domain.com"
+      }
+    }
+  },
+  "Footer": {
+    "title": "اشترك في نشرتنا الإخبارية",
+    "description": "نحن فريق من غير المتشائمين الذين يهتمون حقا بعملنا",
+    "privacy": "© زاكر 2024.جميع الحقوق محفوظة"
+  },
+  "Links": {
+    "google_play_link": "https://play.google.com/store/apps/details?id=com.misbar.zaker",
+    "apple_store_link": "https://apps.apple.com",
+    "facebook": "/",
+    "telegram": "/",
+    "instagram": "/",
+    "twitter": "/"
+  },
+  "Setting": {
+    "Logo": "/Setting/LOGO.png"
+  },
+  "Privacy": {
+  "En":{
+    "title":"Privacy & Policy:",
+    "Introduction":"Introduction",
+    "Point Ltd. ('we', 'our', or 'us') respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the Zaker application ('App'). Please read this policy carefully to understand our views and practices regarding your personal data.":"Point Ltd. ('we', 'our', or 'us') respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the Zaker application ('App'). Please read this policy carefully to understand our views and practices regarding your personal data.",
+    "subTitle1":"Data Collection",
+    "subTitleDesc1":"We collect the following types of personal data from users:",
+    "Personal Data:":"1. Personal Data:",
+    "Personal_Data_Body":{
+      "zero":"• Phone Number",
+      "first":"• First Name",
+      "second":"• Last Name",
+      "third":"• Educational level",
+      "fourth":"• Address",
+      "fifth":"• City",
+      "sixes":"• Gender"
+    },
+    "Data from App Usage:":"2. Data from App Usage:",
+    "Data from App Usage":{
+      "first":"• Questions solved by the user",
+      "second":"• User's answers to analyze strengths and weaknesses"
+    },
+    "Additional Indirect Data:":"3. Additional Indirect Data:",
+    "Additional Indirect Data":{
+      "first":"• Usage-related data such as session duration and frequency of usage for performance improvements"
+    },
+    "subTitle2":"Data Collection Methods",
+    "Data Collection Methods":{
+      "first":"• Personal Data: Entered manually by the user when registering or updating their profile.",
+      "second":"• Test Data and Answers: Collected during interaction with the App's educational features.",
+      "third":"• Analytical Data: Collected via the App to improve performance but does not include device data or geographic location."
+    },
+    "subTitle3":"Purpose of Data Collection",
+    "subTitleDesc3":"We use the collected data for the following purposes:",
+    "Purpose of Data Collection":{
+      "first":"1. Personalization of User Experience: Tailoring educational content to match the student's academic level.",
+      "second":"2. Strength and Weakness Analysis: Providing customized reports based on student performance.",
+      "third":"3. App Quality Improvement: Analyzing user interaction to enhance the overall app experience."
+    },
+    "subTitle4":"Data Sharing",
+    "subTitleDesc4":"We do not share your personal data with third parties except in the following cases:",
+    "Data Sharing":{
+    "first":"• With your consent: If you agree to share data for specific purposes.",
+    "second":"• Legal Requirements: If required by law to disclose certain information."
+    },
+    "subTitle5":"Cookies",
+    "subTitleDesc5":"While the App does not directly use cookies, it may incorporate web components in the future that use cookies to improve user experience by storing preferences.",
+    "subTitle6":"Data Storage",
+    "Data Storage":{
+    "first":"• Location and Duration: Data is stored on secure servers. We retain data as long as necessary for analytical and administrative purposes.",
+    "second":"• Security Measures: We employ SSL encryption for data transmission and limit access to authorized personnel only."
+    },
+    "subTitle7":"User Rights",
+    "subTitleDesc7":"As a user of Zaker, you have the following rights:",
+    "User Rights":{
+      "first":"• Right of Access: You can view the personal data we collect through your account settings.",
+      "second":"• Right to Modify: You can update your personal information via the account settings.",
+      "third":"• Right to Object: If you wish to opt out of performance analysis, you can do so through the account settings.",
+      "fourth":"• Right to Data Portability: You can request your data in a portable format."
+      },
+    "subTitleDesc8":"Please note that due to the nature of our services, deletion of data may not be available as it is essential for analytical purposes.",
+    "subTitle9":"Advertisements and Analytics",
+    "subTitleDesc9":"The Zaker App does not display advertisements or use external analytics services like Google Analytics. All data used is processed internally for educational improvement purposes.",
+    "subTitle10":"Changes to This Privacy Policy",
+    "subTitleDesc10":"We may update this Privacy Policy from time to time. Any changes will be communicated to you within the App, and you will be required to accept the updated policy to continue using the App.",
+    "subTitle11":"Compliance with Laws",
+    "subTitleDesc11":"We comply with all applicable privacy laws, including the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), where applicable.",
+    "subTitle12":"Contact Us",
+    "subTitleDesc12":"If you have any questions or concerns about our Privacy Policy or your personal data, please contact us at:",
+    "email":"Email: info@misbar.education"
+    },
+    "Ar": {
+      "title": "سياسة الخصوصية:",
+      "Introduction": "مقدمة",
+      "Point Ltd. ('we', 'our', or 'us') respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the Zaker application ('App'). Please read this policy carefully to understand our views and practices regarding your personal data.": "تحترم شركة بوينت المحدودة ('نحن' أو 'لنا') خصوصيتك وتلتزم بحماية بياناتك الشخصية. توضح سياسة الخصوصية هذه كيفية جمعنا واستخدامنا والكشف عن معلوماتك وحمايتها عند استخدامك لتطبيق زاكر ('التطبيق'). يُرجى قراءة هذه السياسة بعناية لفهم وجهات نظرنا وممارساتنا بشأن بياناتك الشخصية.",
+      "subTitle1": "جمع البيانات",
+      "subTitleDesc1": "نجمع الأنواع التالية من البيانات الشخصية من المستخدمين:",
+      "Personal Data:": "1. البيانات الشخصية:",
+      "Personal_Data_Body": {
+        "zero":"• رقم الهاتف",
+        "first": "• الاسم الأول",
+        "second": "• اسم العائلة",
+        "third": "• المستوى التعليمي",
+        "fourth": "• العنوان",
+        "fifth": "• المدينة",
+        "sixes": "• الجنس"
+      },
+      "Data from App Usage:": "2. البيانات من استخدام التطبيق:",
+      "Data from App Usage": {
+        "first": "• الأسئلة التي حلها المستخدم",
+        "second": "• إجابات المستخدم لتحليل نقاط القوة والضعف"
+      },
+      "Additional Indirect Data:": "3. البيانات غير المباشرة الإضافية:",
+      "Additional Indirect Data": {
+        "first": "• البيانات المتعلقة بالاستخدام مثل مدة الجلسة وتكرار الاستخدام لتحسين الأداء"
+      },
+      "subTitle2": "طرق جمع البيانات",
+      "Data Collection Methods": {
+        "first": "• البيانات الشخصية: يتم إدخالها يدويًا بواسطة المستخدم عند التسجيل أو تحديث ملفه الشخصي.",
+        "second": "• بيانات الاختبار والإجابات: يتم جمعها أثناء التفاعل مع ميزات التعليم في التطبيق.",
+        "third": "• البيانات التحليلية: يتم جمعها عبر التطبيق لتحسين الأداء ولكنها لا تشمل بيانات الجهاز أو الموقع الجغرافي."
+      },
+      "subTitle3": "الغرض من جمع البيانات",
+      "subTitleDesc3": "نستخدم البيانات المجمعة للأغراض التالية:",
+      "Purpose of Data Collection": {
+        "first": "1. تخصيص تجربة المستخدم: تكييف المحتوى التعليمي ليتناسب مع المستوى الأكاديمي للطالب.",
+        "second": "2. تحليل نقاط القوة والضعف: تقديم تقارير مخصصة بناءً على أداء الطالب.",
+        "third": "3. تحسين جودة التطبيق: تحليل تفاعل المستخدم لتحسين تجربة التطبيق العامة."
+      },
+      "subTitle4": "مشاركة البيانات",
+      "subTitleDesc4": "لا نقوم بمشاركة بياناتك الشخصية مع أطراف ثالثة باستثناء الحالات التالية:",
+      "Data Sharing": {
+        "first": "• بموافقتك: إذا وافقت على مشاركة البيانات لأغراض محددة.",
+        "second": "• المتطلبات القانونية: إذا كان القانون يتطلب الكشف عن معلومات معينة."
+      },
+      "subTitle5": "الكوكيز",
+      "subTitleDesc5": "على الرغم من أن التطبيق لا يستخدم الكوكيز مباشرة، إلا أنه قد يدمج مكونات ويب في المستقبل تستخدم الكوكيز لتحسين تجربة المستخدم من خلال تخزين التفضيلات.",
+      "subTitle6": "تخزين البيانات",
+      "Data Storage": {
+        "first": "• الموقع والمدة: يتم تخزين البيانات على خوادم آمنة. نحتفظ بالبيانات طالما كان ذلك ضروريًا لأغراض التحليل والإدارة.",
+        "second": "• إجراءات الأمان: نستخدم تشفير SSL لنقل البيانات ونحد من الوصول إلى الموظفين المعتمدين فقط."
+      },
+      "subTitle7": "حقوق المستخدم",
+      "subTitleDesc7": "بصفتك مستخدمًا لتطبيق زاكر، لديك الحقوق التالية:",
+      "User Rights": {
+        "first": "• حق الوصول: يمكنك عرض البيانات الشخصية التي نجمعها من خلال إعدادات حسابك.",
+        "second": "• حق التعديل: يمكنك تحديث معلوماتك الشخصية عبر إعدادات الحساب.",
+        "third": "• حق الاعتراض: إذا كنت ترغب في إيقاف التحليل الأداء، يمكنك القيام بذلك من خلال إعدادات الحساب.",
+        "fourth": "• حق نقل البيانات: يمكنك طلب بياناتك بتنسيق قابل للنقل."
+      },
+      "subTitleDesc8": "يرجى ملاحظة أنه بسبب طبيعة خدماتنا، قد لا يكون حذف البيانات متاحًا حيث أنها ضرورية لأغراض التحليل.",
+      "subTitle9": "الإعلانات والتحليلات",
+      "subTitleDesc9": "لا يعرض تطبيق زاكر إعلانات ولا يستخدم خدمات التحليلات الخارجية مثل Google Analytics. جميع البيانات المستخدمة تتم معالجتها داخليًا لأغراض تحسين التعليم.",
+      "subTitle10": "التغييرات على سياسة الخصوصية هذه",
+      "subTitleDesc10": "قد نقوم بتحديث سياسة الخصوصية هذه من وقت لآخر. سيتم إبلاغك بأي تغييرات عبر التطبيق، وستحتاج إلى قبول السياسة المحدثة لمواصلة استخدام التطبيق.",
+      "subTitle11": "الامتثال للقوانين",
+      "subTitleDesc11": "نلتزم بجميع قوانين الخصوصية المعمول بها، بما في ذلك اللائحة العامة لحماية البيانات (GDPR) وقانون حماية خصوصية المستهلك في كاليفورنيا (CCPA) عند الاقتضاء.",
+      "subTitle12": "اتصل بنا",
+      "subTitleDesc12": "إذا كان لديك أي أسئلة أو استفسارات حول سياسة الخصوصية الخاصة بنا أو بياناتك الشخصية، يرجى الاتصال بنا على:",
+      "email": "البريد الإلكتروني: info@misbar.education"
+    }
+  },
+  "NotFound": {
+    "title":"عذرا الصفخة غير موجودة",
+    "description":"ارجع للصفحة الرئيسية"
+  },
+  "Download": {
+    "title":"",
+    "description":""
+  }
+}

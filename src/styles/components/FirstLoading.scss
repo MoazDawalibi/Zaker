@@ -1,0 +1,45 @@
+.FirstLoading {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: black;
+  color: white;
+  z-index: 9999999999;
+  overflow: hidden;
+  transition:
+    transform 1s cubic-bezier(0.25, 1, 0.5, 1),
+    visibility 1ms linear 1s;
+}
+
+.Logo {
+  width: 30vw;
+  mix-blend-mode: difference;
+  margin-bottom: 1rem;
+}
+
+.Info {
+  font-size: 1vw;
+  transition: transform 0.5s ease;
+}
+
+/* New animation for page movement */
+@keyframes pageUp {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(0, -100vh, 0);
+    visibility: hidden;
+  }
+}
+
+.PageUp {
+  animation: pageUp 0.8s ease-in-out forwards;
+}

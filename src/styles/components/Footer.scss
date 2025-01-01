@@ -1,0 +1,179 @@
+.Footer {
+  background: var(--primary);
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin-top: 250px;
+  width: 100%;
+  z-index: 999;
+  position: relative;
+  img {
+    width: 100px;
+  }
+  > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    svg {
+      font-size: 20px;
+      color: var(--white);
+      padding: 10px;
+      border: 1px solid var(--white);
+      border-radius: 50%;
+    }
+  }
+  p {
+    font-size: 16px;
+    color: var(--white);
+  }
+}
+
+.FooterHeader {
+  position: absolute;
+  top: -25%;
+  background: var(--thirdly);
+  width: 70%;
+  height: 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding-inline: 5%;
+  color: var(--white);
+  border-radius: 6px;
+  > span {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    p {
+      font-weight: normal;
+    }
+  }
+  > div {
+    background: var(--white);
+    width: 300px;
+    height: 40px;
+    display: flex;
+    padding: 5px;
+    gap: 10px;
+    .ant-input {
+      border: none;
+      height: 40px;
+      all: unset;
+      min-width: 240px;
+      color: var(--text);
+      &::placeholder {
+        font-size: 10px;
+      }
+    }
+    div {
+      background: var(--thirdly);
+      width: 50px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 5px;
+      cursor: pointer;
+      svg {
+        font-size: 30px;
+        width: 30px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .Footer {
+    background: var(--primary);
+    height: 330px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    gap: 30px;
+    margin-top: 250px;
+    width: 100%;
+    z-index: 999;
+    position: relative;
+    padding-bottom: 30px;
+    img {
+      width: 100px;
+    }
+    > div {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+      svg {
+        font-size: 20px;
+        color: var(--white);
+        padding: 10px;
+        border: 1px solid var(--white);
+        border-radius: 50%;
+      }
+    }
+    p {
+      font-size: 14px;
+    }
+  }
+
+  .FooterHeader {
+    position: absolute;
+    top: -40%;
+    background: var(--thirdly);
+    width: 60%;
+    height: fit-content;
+    padding-block: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+    flex-direction: column;
+
+    padding-inline: 10%;
+    color: var(--white);
+    > span {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      h1 {
+        font-size: 20px;
+      }
+      p {
+        font-size: 14px;
+        font-weight: normal;
+      }
+    }
+    > div {
+      background: var(--white);
+      width: 200px;
+      height: 40px;
+      display: flex;
+      padding: 5px;
+      gap: 10px;
+      .ant-input {
+        border: none;
+        height: 40px;
+        all: unset;
+        min-width: 140px;
+        color: var(--text);
+        &::placeholder {
+          font-size: 10px;
+        }
+      }
+      div {
+        background: var(--thirdly);
+        width: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+    }
+  }
+}

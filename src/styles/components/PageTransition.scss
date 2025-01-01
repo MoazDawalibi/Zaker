@@ -1,0 +1,23 @@
+.transition-overlay {
+  position: fixed;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: red;
+  z-index: 1000;
+  pointer-events: none;
+  transition: top 1s ease-in-out;
+}
+
+/* Exit Animation: Moves up */
+.transition-overlay.exit {
+  top: 0;
+}
+
+/* Entrance Animation: Moves down */
+.transition-overlay.enter {
+  top: -100%;
+  transition: top 1s ease-in-out;
+  top: 100%;
+}
