@@ -10,7 +10,10 @@ export default defineConfig({
       filename: './bundle-analysis.html', // Output file
       open: true, // Open the generated file automatically
     }),
-  ],
+  ],  
+  build: {
+    outDir: 'build', // Specify the output directory for Vite
+  },
 
   resolve: {
     alias: {
